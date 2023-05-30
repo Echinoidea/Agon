@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "11vc9Mu2CWlQTirukZjMwMw1uAkWj2pPRc5U4TdO76nNy9TXISTwERYXgLqTrt/0m8NWyzfIAXOsk4HIgDZjzw==",
+  "success": true,
+  "projectFilePath": "D:\\_dev\\C#\\Agon\\Agon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\raylib-cs\\4.5.0\\raylib-cs.4.5.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
