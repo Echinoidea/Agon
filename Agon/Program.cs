@@ -13,7 +13,7 @@ namespace Agon
                 Raylib.BeginDrawing();
                 Raylib.ClearBackground(Color.WHITE);
 
-                Raylib.DrawText("Hello, world!", 12, 12, 20, Color.BLACK);
+
 
                 Raylib.EndDrawing();
             }
